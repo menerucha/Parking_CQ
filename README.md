@@ -1,4 +1,4 @@
-# Parking_CQ
+Circular Queue Car Parking System (Python + Tkinter)
 
 # 🚗 Circular Queue Car Parking System (Python + Tkinter)
 
